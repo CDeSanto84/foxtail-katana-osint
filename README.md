@@ -2,6 +2,8 @@
 
 # Foxtail Katana OSINT
 
+[![Checks](https://github.com/CDeSanto84/foxtail-katana-osint/actions/workflows/checks.yml/badge.svg)](https://github.com/CDeSanto84/foxtail-katana-osint/actions/workflows/checks.yml)
+
 **Bounded public-source lookups with evidence and provenance.**
 
 The standalone OSINT engine from the Foxtail Katana desktop workbench. It turns
